@@ -16,5 +16,5 @@ Each section includes short explanations of the underlying concept
 (e.g. why ECB leaks patterns, why hashing is one-way) for educational purposes.
 
 ### Tech stack
-HTML, CSS, JavaScript — CryptoJS for symmetric encryption, 
+HTML, CSS, JavaScript-CryptoJS for symmetric encryption, 
 Web Crypto API (SubtleCrypto) for RSA
